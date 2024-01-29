@@ -12,6 +12,8 @@ As a passionate and budding frontend developer, I am on a thrilling journey to t
 * 🧠  I'm learning Databases, Redux, UI/UX
 * 🤝  I'm open to collaborating on interesting project for experience
 
+<a href="https://www.github.com/spyr0xz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/spyr0xz?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
@@ -27,4 +29,4 @@ As a passionate and budding frontend developer, I am on a thrilling journey to t
 
 <a href="http://www.github.com/spyr0xz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=spyr0xz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/spyr0xz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spyr0xz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/spyr0xz"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=spyr0xz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
