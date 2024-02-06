@@ -8,7 +8,7 @@ As a passionate and budding frontend developer, I am on a thrilling journey to t
 
 * 🌍  I'm based in Russia, Nizhniy Novgorod
 * ✉️  You can contact me at [std.strive@gmail.com](mailto:std.strive@gmail.com)
-* 🚀  I'm currently working on [Habit-app](https://github.com/spyr0xz/habit-app)
+* 🚀  I'm currently working on [Habit-app](https://github.com/spyr0xz/habit-app) and [Web-estate](https://github.com/spyr0xz/web-estate)
 * 🧠  I'm learning Databases, Redux, UI/UX
 * 🤝  I'm open to collaborating on interesting project for experience
 
